@@ -150,7 +150,7 @@ How AI can improve productivity
 🔗 Project Links
 Google Colab
 Add your Google Colab link here:
-YOUR_COLAB_LINK
+AI_Productivity_Toolkit_Prompt_Engineering - Colab https://share.google/lVbiB9FAnstUvluoz
 GitHub Repository
 Add your GitHub repository link here:
 YOUR_GITHUB_LINK
