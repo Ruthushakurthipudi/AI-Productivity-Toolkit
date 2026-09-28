@@ -89,7 +89,7 @@ How to evaluate prompts
 How AI can improve productivity
 🔗 Project Links
 Google Colab
-https://colab.research.google.com/drive/1UedVXSlHbSon1DPJjcEw32oo6xVblWKN?usp=sharing
+AI_Productivity_Toolkit_Prompt_Engineering - Colab https://share.google/WfiOsIAncVJCNUnbP
 
 GitHub Repository
 https://github.com/sripriyamallari/ai-productivity-toolkit-prompt-engineering
