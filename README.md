@@ -135,6 +135,7 @@ AI-Productivity-Toolkit/
 ├── Prompt_Engineering_AI_Productivity.ipynb
 ├── README.md
 └── prompts.txt
+
 📚 Learning Outcomes
 Through this project, I learned:
 How Prompt Engineering works
@@ -147,16 +148,17 @@ How AI can assist with coding and debugging
 How to create reusable AI workflows
 How to evaluate prompts
 How AI can improve productivity
+
 🔗 Project Links
 Google Colab
-Add your Google Colab link here:
 AI_Productivity_Toolkit_Prompt_Engineering - Colab https://share.google/lVbiB9FAnstUvluoz
 GitHub Repository
-Add your GitHub repository link here:
-YOUR_GITHUB_LINK
+https://github.com/Ruthushakurthipudi/AI-Productivity-Toolkit
+
 👩‍💻 Author
 Ruthusha Kurthipudi
 AIML Student | Interested in Artificial Intelligence, Machine Learning and Emerging Technologies
+
 ✅ Project Status
 Completed Successfully
 This project was developed as part of a Prompt Engineering and AI Productivity learning task.
