@@ -92,7 +92,7 @@ Google Colab
 AI_Productivity_Toolkit_Prompt_Engineering - Colab https://share.google/WfiOsIAncVJCNUnbP
 
 GitHub Repository
-https://github.com/sripriyamallari/ai-productivity-toolkit-prompt-engineering
+https://github.com/Ruthushakurthipudi/AI-Productivity-Toolkit
 
 👩‍💻 Author
 Ruthusha Kurthipudi 
